@@ -61,3 +61,10 @@ span{
 h1,h2{
   font-style:oblique;
 }
+a{
+  color: rgb(58,128,201);
+  text-decoration:none;
+}
+a:hover{
+  color: yellow;
+}
