@@ -68,3 +68,7 @@ a{
 a:hover{
   color: yellow;
 }
+p{
+  text-indent: 20px;
+  text-align: justify;
+}
