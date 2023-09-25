@@ -58,3 +58,6 @@ span{
   max-width: 800px;
   border-bottom: 3px solid rgb(58, 128, 201);
 }
+h1,h2{
+  font-style:oblique;
+}
